@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Build output
+build/
+DerivedData/
+*.app
+*.dSYM
+
+# Xcode user data
+*.xcuserstate
+*.xcuserdata
+xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*~

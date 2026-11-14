@@ -20,3 +20,6 @@ xcuserdata/
 # Temporary files
 *.swp
 *~
+
+#AI
+AGENTS.md

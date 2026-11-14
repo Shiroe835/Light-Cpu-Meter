@@ -87,8 +87,6 @@ Activity bar/
 ├── CPUMonitor.xcodeproj/              # Complete Xcode project
 ├── Scripts/
 │   ├── build.sh                       # Automates compilation of Release .app
-│   ├── install.sh                     # Installs CPUMonitor.app to /Applications
-│   └── generate_project.py            # Generates/updates Xcode project structure
 ├── build/
 │   └── Release/
 │       └── CPUMonitor.app             # Compiled application bundle

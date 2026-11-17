@@ -113,6 +113,15 @@ open "CPUMonitor.app"
 /bin/bash Scripts/build.sh
 ```
 
+### Publish a GitHub Release
+
+Push a version tag such as `v1.0.0` to GitHub to build the app on a macOS runner and create a release containing `CPUMonitor-macos.zip`:
+
+```bash
+git tag v1.0.0
+git push origin v1.0.0
+```
+
 ---
 
 ## License
